@@ -30,10 +30,10 @@
   <a href="https://github.com/tidyverse/ggplot2"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png"   width="50px"/></a>
   <a href="https://github.com/tidyverse/stringr"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/stringr.png"   width="50px"/></a>
   <a href="https://github.com/tidyverse/purrr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/purrr.png"     width="50px"/></a>
+  <a href="https://github.com/tidyverse/tidyr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png"     width="50px"/></a>
   <a href="https://github.com/tidyverse/glue"      ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/glue.png"      width="50px"/></a>
   <a href="https://github.com/tidyverse/lubridate" ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/lubridate.png" width="50px"/></a>
   <a href="https://github.com/tidyverse/tibble"    ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tibble.png"    width="50px"/></a>
-  <a href="https://github.com/tidyverse/tidyr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyr.png"     width="50px"/></a>
   <a href="https://github.com/tidyverse/readr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/readr.png"     width="50px"/></a>
   <a href="https://github.com/tidyverse/dbplyr"    ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dbplyr.png"    width="50px"/></a>
 </p>
