@@ -1,6 +1,6 @@
-👋 Hey there! I'm Josh (or Kish) - specialized in statistical modeling and software development, and still currently curious for the new things. Welcome to my GitHub.
+<img width="581" height="296" alt="logo" src="https://github.com/user-attachments/assets/92aff94e-af18-4f6f-b925-ed59fe316269" />Hey there! I'm Joshua - specialized in statistical modeling, numerical analysis, and software development, and still currently curious for the new things - Welcome to my GitHub.
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -11,15 +11,15 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Data Science
-- **Statistical Analysis**: Regression, Classification, Time Series Analysis
-- **Data Processing**: Data cleaning, feature engineering, ETL pipelines
-- **Data Visualization**: Dashboard creation, interactive visualizations
-- **Simulation**: Monte Carlo methods, stochastic modeling
+- Analyses: Regression, Multivariate Analysis, Categorical Data Analysis, Time Series Analysis
+- Data Manipulation and Processing: Data cleaning, feature engineering, SQL
+- Data Visualization: Dashboard creation, interactive visualizations
+- Simulation: Monte Carlo methods, stochastic modeling
 
 ### Machine Learning
-- **Supervised Learning**: Classification, Regression, Ensemble Methods
-- **Unsupervised Learning**: Clustering, Dimensionality Reduction
-- **Deep Learning**: Neural Networks, Computer Vision
+- Supervised Learning: Classification, Regression, Ensemble Methods
+- Unsupervised Learning: Clustering, Dimensionality Reduction
+- Deep Learning: Neural Networks, Computer Vision
 
 ### R Packages
 
@@ -38,7 +38,10 @@
   <a href="https://github.com/tidyverse/dbplyr"    ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dbplyr.png"    width="50px"/></a>
 </p>
 
-#### Tidymodels & ML
+#### Machine Learning
+
+##### tidymodels
+
 <p align="left">
   <!-- Core Tidymodels -->
   <a href="https://github.com/tidymodels/tidymodels"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidymodels.png" width="50px"/></a>
@@ -51,6 +54,20 @@
   <a href="https://github.com/tidymodels/yardstick"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/yardstick.png" width="50px"/></a>
   <a href="https://github.com/tidymodels/broom"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/broom.png" width="50px"/></a>
   <a href="https://github.com/tidymodels/infer"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/infer.png" width="50px"/></a>
+</p>
+
+##### mlr3
+
+<p align="left">
+  <!-- Core Tidymodels -->
+  <a href="https://github.com/mlr-org/mlr3"><img src="https://github.com/mlr-org/mlr3/raw/main/man/figures/logo.png" width="50px"/></a>
+</p>
+
+##### Deep Learning
+
+<p align="left">
+  <!-- Core Tidymodels -->
+  <a href="https://github.com/mlverse/torch"><img src="https://github.com/mlverse/torch/raw/main/man/figures/torch.png" width="50px"/></a>
 </p>
 
 ##### Bonus: Time Series and Business Science 
@@ -96,7 +113,7 @@
 </p>
 
 
-### Python Libraries
+### Python Packages
 <p align="left">
   <a href="https://github.com/numpy/numpy">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -148,9 +165,8 @@
 </p>
 
 
-## 🔗 Connect With Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-marie-ongcoy-41b901295/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisha126)
 
 ---
