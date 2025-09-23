@@ -1,4 +1,4 @@
-<img width="581" height="296" alt="logo" src="https://github.com/user-attachments/assets/92aff94e-af18-4f6f-b925-ed59fe316269" />Hey there! I'm Joshua - specialized in statistical modeling, numerical analysis, and software development, and still currently curious for the new things - Welcome to my GitHub.
+Hey there! I'm Joshua - specialized in statistical modeling, numerical analysis, and software development, and still currently curious for the new things - Welcome to my GitHub.
 
 ## Technical Skills
 
